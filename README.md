@@ -4,7 +4,7 @@
 
 ---
 
-## 🇯🇵 日本語版
+##  日本語版
 
 本アプリは、日本の司法試験予備試験における択一式問題の学習支援を目的とした
 iOS向けクイズ形式の教育アプリケーションです。
@@ -23,7 +23,7 @@ SwiftUIを用いて開発し、
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 This is an iOS quiz application built with SwiftUI
 to support preparation for the Japanese Preliminary Bar Examination.
